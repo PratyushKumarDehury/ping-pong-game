@@ -1,9 +1,9 @@
 You can see the website live:- https://pratyushkumardehury.github.io/ping-pong-game/
 
-## Ping-Pong-Game (Made using HTML5 CSS3 and JavaScript) ##
+Ping-Pong-Game (Made using HTML5, CSS3 and JavaScript)
 
 
-## About the project:-
+About the project:-
 
 In this project I have created a basic version of Ping Pong Game using HTML CSS and JavaScript to increease my command over them.
 Press ENTER to start game and use arrow or (A and D) key to move the rod in right-left direction.
